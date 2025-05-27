@@ -1,0 +1,6 @@
+@AdvanceRequest.Api_HostAddress = http://localhost:5190
+
+GET {{AdvanceRequest.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,58 @@
+[
+    {
+        "contractCode": "CONTRATO-001",
+        "clientId": "11111111-1111-1111-1111-111111111111",
+        "clientName": "João da Silva",
+        "installments": [
+            {
+                "installmentCode": "P001",
+                "dueDate": "2025-06-10",
+                "amount": 1500.00,
+                "status": "open",
+                "anticipated": false
+            },
+            {
+                "installmentCode": "P002",
+                "dueDate": "2025-07-10",
+                "amount": 1500.00,
+                "status": "open",
+                "anticipated": false
+            },
+            {
+                "installmentCode": "P003",
+                "dueDate": "2025-08-10",
+                "amount": 1500.00,
+                "status": "paid",
+                "anticipated": false
+            }
+        ]
+    },
+    {
+        "contractCode": "CONTRATO-002",
+        "clientId": "22222222-2222-2222-2222-222222222222",
+        "clientName": "Maria Oliveira",
+        "installments": [
+            {
+                "installmentCode": "P004",
+                "dueDate": "2025-05-15",
+                "amount": 2000.00,
+                "status": "open",
+                "anticipated": true
+            },
+            {
+                "installmentCode": "P005",
+                "dueDate": "2025-06-15",
+                "amount": 2000.00,
+                "status": "open",
+                "anticipated": false
+            },
+            {
+                "installmentCode": "P006",
+                "dueDate": "2025-07-15",
+                "amount": 2000.00,
+                "status": "open",
+                "anticipated": false
+            }
+        ]
+    }
+]

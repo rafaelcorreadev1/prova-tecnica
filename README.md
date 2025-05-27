@@ -6,8 +6,8 @@ Este projeto é uma aplicação full stack para um módulo de CRM, onde clientes
 
 ```
 /projeto/
-├── backend/        # Projeto .NET 8 (ASP.NET Web API)
-├── frontend/       # Projeto React + Vite + Tailwind + Shadcn + React Query
+├── AdvanceRequestApi/        # Projeto .NET 8 (ASP.NET Web API)
+├── AdvanceRequestFrontend/       # Projeto React + Vite + Tailwind + Shadcn + React Query
 └── README.md
 ```
 
